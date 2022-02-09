@@ -1,5 +1,6 @@
 # Mars-Stealer
 use at your own risk
+
 Mars is written in ASM / C WinAPI , weighs only 95kb (packed in UPX 40kb), uses techniques to hide requests to WinAPI, encrypts the strings used, collects all the logs in memory, and also maintains a secure SSL connection to the C&C server.
 Crt, std are not used.​
 
