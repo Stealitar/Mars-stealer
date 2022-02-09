@@ -5,6 +5,7 @@ Mars is written in ASM / C WinAPI , weighs only 95kb (packed in UPX 40kb), uses 
 Crt, std are not used.​
 
 
+
 Supported browsers list:
 
 Internet Explorer, Microsoft Edge
@@ -13,14 +14,18 @@ Opera Stable, Opera GX, Opera Neon.
 Firefox, SlimBrowser, PaleMoon, Waterfox, Cyberfox, BlackHawk, IceCat, KMeleon, Thunderbird.
 
 
+
 Collects passwords, cookies, autocomplete, site visit history, file download history.
 All latest browser updates are supported, including Chrome v80.
 
 An important feature that sets us apart from our competitors is the collection of browser plugins with an emphasis on crypto wallet plugins and 2FA plugins.​
 
+
+
 List of Supported Plugins:
 
 TronLink, MetaMask, Binance Chain Wallet, Yoroi, Nifty Wallet, Math Wallet, Coinbase Wallet, Guarda, EQUAL Wallet, Jaxx Liberty, BitAppWallet, iWallet, Wombat, MEW CX, Guild Wallet, Saturn Wallet, Ronin Wallet , NeoLine, Clover Wallet, Liquality Wallet, Terra Station, Keplr, Sollet, Auro Wallet, Polymesh Wallet, ICONex, Nabox Wallet, KHC, Temple, TezBox, Cyano Wallet, Byone, OneKey, Leaf Wallet, DAppPlay, BitClip, Steem Keychain, Nash Extension, Hycon Lite Client, ZilPay, Coin98 Wallet.
+
 
 
 List of 2FA plugins:
